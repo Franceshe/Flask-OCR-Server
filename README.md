@@ -16,6 +16,9 @@ Using RNN](https://github.com/githubharald/SimpleHTR).
 and [Off-Line Math Formula Recognition Using Deep Neural Networks]
 (https://github.com/jungomi/math-formula-recognition) Based on [Multi-Scale Attention with Dense Encoder for Handwritten Mathematical Expression Recognition](https://arxiv.org/pdf/1801.03530.pdf)
 
+# Better Algorithm
+* Using transfer learning for better accuracy improvement
+
 
 ## Further development after the web app
 * So many people charge money for OCR app in ios store. Why not make it free?
@@ -25,3 +28,4 @@ and [Off-Line Math Formula Recognition Using Deep Neural Networks]
 ## Reference
 * [A comprehensive guide to OCR with Tesseract, OpenCV and Python](https://nanonets.com/blog/ocr-with-tesseract/#installingtesseract)
 * [Setting up a Simple OCR Server](https://realpython.com/setting-up-a-simple-ocr-server/) and related code base [python_ocr_tutorial](https://github.com/ybur-yug/python_ocr_tutorial/)
+* How to find/compare papers for better algorithm: A fascinating AI-powered Research Tool:[Semantic Scholar](https://www.semanticscholar.org/)
