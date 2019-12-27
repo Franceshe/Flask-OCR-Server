@@ -8,12 +8,12 @@ Save time for the following task:
 
 ## Solution:
 * For structured digital image input, using tesserac + opencv + pytorch.
-Because 
+
 * For unstructured image input, using neural network approach:
 Possible candidate include:
 [SimpleHTR-Handwritten Text Recognition (HTR) system implemented with TensorFlow
 Using RNN](https://github.com/githubharald/SimpleHTR).
-[Off-Line Math Formula Recognition Using Deep Neural Networks]
+and [Off-Line Math Formula Recognition Using Deep Neural Networks]
 (https://github.com/jungomi/math-formula-recognition) Based on [Multi-Scale Attention with Dense Encoder for Handwritten Mathematical Expression Recognition](https://arxiv.org/pdf/1801.03530.pdf)
 
 
