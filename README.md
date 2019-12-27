@@ -1,4 +1,4 @@
-# Flask-OCR-Server
+ # Flask-OCR-Server
 
 ## Motivation
 Save time for the following task:
@@ -24,3 +24,4 @@ and [Off-Line Math Formula Recognition Using Deep Neural Networks]
 
 ## Reference
 * [A comprehensive guide to OCR with Tesseract, OpenCV and Python](https://nanonets.com/blog/ocr-with-tesseract/#installingtesseract)
+* [Setting up a Simple OCR Server](https://realpython.com/setting-up-a-simple-ocr-server/) and related code base [python_ocr_tutorial](https://github.com/ybur-yug/python_ocr_tutorial/)
